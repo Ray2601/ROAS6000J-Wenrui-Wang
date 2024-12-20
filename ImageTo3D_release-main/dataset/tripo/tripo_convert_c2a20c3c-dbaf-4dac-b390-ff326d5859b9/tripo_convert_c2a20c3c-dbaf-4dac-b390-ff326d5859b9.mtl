@@ -1,0 +1,13 @@
+# Blender 4.0.0 MTL File: 'tripo_convert_c2a20c3c-dbaf-4dac-b390-ff326d5859b9.blend'
+# www.blender.org
+
+newmtl tripo_mat_c2a20c3c-dbaf-4dac-b390-ff326d5859b9
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Color_1ce93dbf-508d-4c27-b7c5-3e9f628a9f28.jpg
+map_Bump -bm 1.000000 NormalGL_1ce93dbf-508d-4c27-b7c5-3e9f628a9f28.jpg
